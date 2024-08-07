@@ -1,0 +1,36 @@
+APIs inside the (product)
+ProductController (product module can have multiple controllers)
+Get products ---- done
+Add a products ---- done
+Get one product ---- done
+Filter Product ---- done
+Rate product
+Add items to Cart
+Get items of Cart
+Remove items from Cart
+
+
+UserController
+Signup- Email, Name, Password, TypeOfUser(customer, seller)
+Signin - (Email, Password) -Done
+
+
+{
+    _id:Cat1,
+    averagePrice: 50000
+}
+
+
+Folder structure 
+Route configuration
+Creating APIs
+Different API method
+Middleware
+Route parameter
+Query parameter
+Testing api using postman
+Securing Api using jwt Token
+Documenting API using swagger
+CORS
+Logging
+Error Handling
